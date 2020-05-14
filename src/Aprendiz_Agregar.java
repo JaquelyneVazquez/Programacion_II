@@ -36,7 +36,7 @@ public class Aprendiz_Agregar extends javax.swing.JInternalFrame {
         setVisible(true);
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 48)); // NOI18N
-        jLabel1.setText("Puto joe");
+        jLabel1.setText("Puto joe ");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -45,7 +45,7 @@ public class Aprendiz_Agregar extends javax.swing.JInternalFrame {
             .addGroup(layout.createSequentialGroup()
                 .addGap(187, 187, 187)
                 .addComponent(jLabel1)
-                .addContainerGap(288, Short.MAX_VALUE))
+                .addContainerGap(273, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
