@@ -35,7 +35,7 @@ public class Agregar_Instructor extends javax.swing.JInternalFrame {
         setTitle("Agregar instructor");
         setVisible(true);
 
-        jLabel1.setText("HOLA :V NO SE QUE PONER ESTO ESTA RE LENTO SRRY");
+        jLabel1.setText("HOLA :V NO SE QUE PONER ESTO ESTA RE LENTO SRRY ->> HOLI");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -44,7 +44,7 @@ public class Agregar_Instructor extends javax.swing.JInternalFrame {
             .addGroup(layout.createSequentialGroup()
                 .addGap(113, 113, 113)
                 .addComponent(jLabel1)
-                .addContainerGap(144, Short.MAX_VALUE))
+                .addContainerGap(94, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
